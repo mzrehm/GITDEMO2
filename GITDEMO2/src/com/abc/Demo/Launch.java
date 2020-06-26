@@ -7,7 +7,7 @@ public class Launch
 	public static void main(String[] args)
 	{
 		Scanner scan=new Scanner(System.in);
-		System.out.println("Basic calculator");
+		System.out.println("calculator");
 		System.out.println("select the choice to perform the action");
 		System.out.println("1. addition 2.subtraction");
 		int choice = scan.nextInt();
